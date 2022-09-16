@@ -1,0 +1,9 @@
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\bin\Debug\OOOpovar.exe.config
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\bin\Debug\OOOpovar.exe
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\bin\Debug\OOOpovar.pdb
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\obj\Debug\OOOpovar.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\obj\Debug\OOOpovar.Form1.resources
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\obj\Debug\OOOpovar.Properties.Resources.resources
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\obj\Debug\OOOpovar.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\obj\Debug\OOOpovar.exe
+C:\Users\stud\Desktop\OOOpovar\OOOpovar\obj\Debug\OOOpovar.pdb
