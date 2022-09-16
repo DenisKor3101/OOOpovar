@@ -1,38 +1,38 @@
-# Project Title
+# Заголовок проекта
 
-One Paragraph of project description goes here
+Один абзац описания проекта находится здесь
 
-## Getting Started
+## Начало работы
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Эти инструкции предоставят вам копию проекта и помогут запустить на вашем локальном компьютере для разработки и тестирования.
 
-### Prerequisites
+### Необходимые условия
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Что нужно для установки программного обеспечения и как его установить
 
 ```
-Give the example
+Предоставьте примеры
 ```
 
-And repeat
+### Установка
+
+Пошаговая серия примеров, которые говорят, что вы должны запустить
+
+Скажи, какой будет шаг
 
 ```
-until finished
+Приведи пример
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+И повтори
 
-## Authors
+```
+Пока не закончил
+```
+
+Завершите пример получением некоторых данных о системе или использования их для небольшой демонстрации
+
+## Авторы
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
